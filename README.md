@@ -30,19 +30,18 @@ If neither a computer not a group reference email has been sent no notification 
 
 The email is just a text-based email that says something like this:
 
-*
-This email is to notify you that the Precursor Health Agent has detected that your computer, named:
+
+*This email is to notify you that the Precursor Health Agent has detected that your computer, named:
 'John Doe's MacBook Air'
-is running out of space.
+is running out of space.*
 
-The computer boot drive storage on 'John Doe's MacBook Air' is 98.59% full.
+*The computer boot drive storage on 'John Doe's MacBook Air' is 98.59% full.*
 
-Typically, when storage is less than 10% free space you will begin to notice some slowdowns and when storage gets below 5% free space you risk crashes and data corruption/loss.
+*Typically, when storage is less than 10% free space you will begin to notice some slowdowns and when storage gets below 5% free space you risk crashes and data corruption/loss.*
 
-So the time to tidy is up is now. We have a web page that discusses the best ways to clear off space and you can check it out at: 
+*So the time to tidy is up is now. We have a web page that discusses the best ways to clear off space and you can check it out at: *
 
-https://www.precursor.ca/Precursor/resources/storage-guide.html
-*
+*https://www.precursor.ca/Precursor/resources/storage-guide.html*
 
 ## Customization
 
